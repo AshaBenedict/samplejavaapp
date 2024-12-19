@@ -63,7 +63,7 @@ public class AddressbookUI extends UI {
 
     private void configureComponents() {
         /*
-         * Synchronous event handling.
+         *88 Synchronous event handling.
          *
          * Receive user interaction events on the server-side. This allows you
          * to synchronously handle those events. Vaadin automatically sends only
